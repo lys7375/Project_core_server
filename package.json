@@ -1,5 +1,5 @@
 {
-  "name": "project_memorygame_firebase_v1",
+  "name": "core_server",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -13,9 +13,6 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "firebaseui": "^3.5.2"
-  },
-  "devDependencies": {
     "firebase": "^5.9.1"
   }
 }
