@@ -1,5 +1,5 @@
 {
-  "name": "core_server",
+  "name": "project_coreapp",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -13,6 +13,7 @@
     "body-parser": "^1.18.3",
     "cors": "^2.8.5",
     "express": "^4.16.4",
-    "firebase": "^5.9.1"
+    "firebase-admin": "^7.2.0",
+    "jsonwebtoken": "^8.5.1"
   }
 }
