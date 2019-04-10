@@ -332,7 +332,7 @@ app.post('/about', (req, res) => {
         about: editor1
     });
 
-    res.redirect('https://www.w3schools.com/html/html_forms.asp');
+    res.redirect('https://www.yushuolu.com/project/coreApp/profile.html');
 })
 
 
